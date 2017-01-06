@@ -1,4 +1,4 @@
-package org.tommyraid;
+package org.tommyraid.samples;
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.Gdx;

@@ -1,4 +1,4 @@
-package org.tommyraid;
+package org.tommyraid.samples;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Screen;

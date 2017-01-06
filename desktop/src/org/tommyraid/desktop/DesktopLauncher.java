@@ -2,9 +2,7 @@ package org.tommyraid.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import org.tommyraid.OrthographicCameraExample;
-import org.tommyraid.TommyRaid;
-import org.tommyraid.TommyRaidGame;
+import org.tommyraid.samples.OrthographicCameraExample;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {

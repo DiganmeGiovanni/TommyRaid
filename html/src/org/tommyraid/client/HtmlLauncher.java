@@ -3,7 +3,7 @@ package org.tommyraid.client;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import org.tommyraid.TommyRaidGame;
+import org.tommyraid.samples.TommyRaidGame;
 
 public class HtmlLauncher extends GwtApplication {
 
