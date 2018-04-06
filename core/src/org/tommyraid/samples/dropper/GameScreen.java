@@ -1,4 +1,4 @@
-package org.tommyraid.samples;
+package org.tommyraid.samples.dropper;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
